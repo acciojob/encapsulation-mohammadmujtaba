@@ -5,7 +5,7 @@ public class Main {
         RWOnly ob = new RWOnly();
 
         ob.setName("Mujtaba");
-        System.out.println(ob.getName());
+        ob.getName();
     }
 
 }
